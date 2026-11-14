@@ -26,6 +26,7 @@
             android:padding="20dp"
             android:visibility="visible"
             app:srcCompat="@drawable/books_book1" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -57,6 +58,7 @@
                 android:layout_weight="0.2"
                 android:text="BOOK1234"
                 android:textAllCaps="true" />
+
         </LinearLayout>
 
         <LinearLayout
@@ -204,6 +206,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="0.2"
                 android:text="IT/모바일" />
+
         </LinearLayout>
 
         <LinearLayout
@@ -219,5 +222,8 @@
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/menu_bottom" />
         </LinearLayout>
+
     </LinearLayout>
+
 </LinearLayout>
+

@@ -42,6 +42,7 @@
                 android:layout_weight="1"
                 app:srcCompat="@drawable/books_recommenede2" />
         </LinearLayout>
+
     </FrameLayout>
 
     <LinearLayout
@@ -73,6 +74,7 @@
                     android:id="@+id/book1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+
                     android:layout_weight="1"
                     app:srcCompat="@drawable/books_book1" />
 
@@ -83,12 +85,14 @@
                     android:layout_weight="1"
                     android:text="정가 : 22,000원"
                     android:textSize="12sp" />
+
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+
                 android:gravity="center_horizontal"
                 android:orientation="vertical">
 
@@ -106,7 +110,9 @@
                     android:layout_weight="1"
                     android:text="정가 : 34,000원"
                     android:textSize="12sp" />
+
             </LinearLayout>
+
         </LinearLayout>
 
         <LinearLayout
@@ -135,6 +141,7 @@
                     android:layout_weight="1"
                     android:text="정가 : 30,000원"
                     android:textSize="12sp" />
+
             </LinearLayout>
 
             <LinearLayout
@@ -158,8 +165,11 @@
                     android:layout_weight="1"
                     android:text="정가 : 28,000원"
                     android:textSize="12sp" />
+
             </LinearLayout>
+
         </LinearLayout>
+
     </LinearLayout>
 
     <LinearLayout
